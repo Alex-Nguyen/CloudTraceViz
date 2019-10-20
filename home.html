@@ -117,7 +117,7 @@
             <ul class="sidebar-menu" data-widget="tree">
                 <li class="header">MAIN NAVIGATION</li>
                 <li class="active treeview">
-                    <a href="#">
+                    <a href="#database">
                         <i class="fa fa-database"></i> <span>Database</span>
                     </a>
 
@@ -132,13 +132,13 @@
             </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="pages/charts/chartjs.html"><i class="fa fa-line-chart"></i> Univariate analysis</a></li>
-                        <li><a href="pages/charts/morris.html"><i class="fa fa-bar-chart"></i> Bivariate analysis</a></li>
-                        <li><a href="pages/charts/flot.html"><i class="fa fa-area-chart"></i> Multivariate analysis</a></li>
+                        <li><a href="#bivariate"><i class="fa fa-line-chart"></i> Univariate analysis</a></li>
+                        <li><a href="#bivariate"><i class="fa fa-bar-chart"></i> Bivariate analysis</a></li>
+                        <li><a href="#multivariate"><i class="fa fa-area-chart"></i> Multivariate analysis</a></li>
                     </ul>
                 </li>
 
-                <li><a href="https://adminlte.io/docs"><i class="fa fa-book"></i> <span>Documentation</span></a></li>
+                <li><a href="https://github.com/Alex-Nguyen/CloudTraceViz"><i class="fa fa-book"></i> <span>Documentation</span></a></li>
                 <li class="header">COLOR LEGEND</li>
                 <li><a href="#"><i class="fa fa-circle-o text-red"></i> <span>Critical</span></a></li>
                 <li><a href="#"><i class="fa fa-circle-o text-yellow"></i> <span>Warning</span></a></li>
@@ -171,7 +171,7 @@
                 <div class="col-md-12">
                     <div class="box">
                         <div class="box-header with-border">
-                            <h3 class="box-title">Select dataset (e.g., csv, tsv)</h3>
+                            <h3 class="box-title" id="database">Select dataset (e.g., csv, tsv)</h3>
 
                             <div class="box-tools pull-right">
                                 <button type="button" class="btn btn-box-tool" data-widget="collapse"><i
@@ -222,7 +222,7 @@
                 <div class="col-md-12">
                     <div class="box">
                         <div class="box-header with-border">
-                            <h3 class="box-title">Scatter plot</h3>
+                            <h3 class="box-title" id="bivariate">Scatter plot</h3>
 
                             <div class="box-tools pull-right">
                                 <button type="button" class="btn btn-box-tool" data-widget="collapse"><i
@@ -273,7 +273,7 @@
                 <div class="col-md-12">
                     <div class="box">
                         <div class="box-header with-border">
-                            <h3 class="box-title">Multivariate analysis</h3>
+                            <h3 class="box-title" id="multivariate">Multivariate analysis</h3>
 
                             <div class="box-tools pull-right">
 
