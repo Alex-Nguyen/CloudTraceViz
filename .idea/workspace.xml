@@ -30,6 +30,9 @@
       <find>Hello</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SGyFBgYqK3eSwIwaP2fk86ZGqX" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -87,10 +90,22 @@
       <workItem from="1565561841081" duration="3280000" />
       <workItem from="1565596047693" duration="12000" />
       <workItem from="1571204123022" duration="4089000" />
+      <workItem from="1571612497237" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
