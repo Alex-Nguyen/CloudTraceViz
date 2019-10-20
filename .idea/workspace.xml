@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f45e3cb-8234-42b7-b5b3-ba584baf2304" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nutrie</find>
+      <find>colors</find>
+      <find>legend</find>
+      <find>color</find>
+      <find>highlighted</find>
+      <find>_.uniq</find>
+      <find>uniqueKeys</find>
+      <find>begin</find>
+      <find>ui-bg</find>
+      <find>Hello</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1SGyFBgYqK3eSwIwaP2fk86ZGqX" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Coding\AlibabaTraceCluster\lib\slickgrid\images" />
+      <recent name="D:\Coding\AlibabaTraceCluster\data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AlibabaTraceCluster/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f45e3cb-8234-42b7-b5b3-ba584baf2304" name="Default Changelist" comment="" />
+      <created>1561243458260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561243458260</updated>
+      <workItem from="1561243460508" duration="50712000" />
+      <workItem from="1561432070042" duration="2633000" />
+      <workItem from="1561506435789" duration="808000" />
+      <workItem from="1561514684721" duration="6912000" />
+      <workItem from="1561763522309" duration="5340000" />
+      <workItem from="1562021981453" duration="2768000" />
+      <workItem from="1565558713859" duration="158000" />
+      <workItem from="1565561841081" duration="3280000" />
+      <workItem from="1565596047693" duration="12000" />
+      <workItem from="1571204123022" duration="4089000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
